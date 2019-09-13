@@ -10,7 +10,8 @@ namespace TddCalculator.Library
     {
         public int Addition(int number1, int number2)
         {
-            return 0;
+            int resultTotal = number1 + number2;
+            return resultTotal;
         }
     }
 }
