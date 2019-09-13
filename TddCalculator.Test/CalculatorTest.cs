@@ -23,7 +23,7 @@ namespace TddCalculator.Test
             Calculator CalObj = new Calculator();
             int num1 = 5;
             int num2 = -5;
-            int resultSum = CalObj.Addition(num1, num2)+1;
+            int resultSum = CalObj.Addition(num1, num2);
             Assert.AreEqual(0, resultSum, "Testing result for addition of 5 and -5");
         }
     }
