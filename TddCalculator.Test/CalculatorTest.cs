@@ -16,5 +16,15 @@ namespace TddCalculator.Test
             int resultSum = CalObj.Addition(num1, num2);
             Assert.AreEqual(12, resultSum, "Testing result for addition of 5 and 7");
         }
+
+        [TestMethod]
+        public void ShouldReturnZeroForIdenticalNumbersOnePositveOtherNegativeAsInput()
+        {
+            Calculator CalObj = new Calculator();
+            int num1 = 5;
+            int num2 = -5;
+            int resultSum = CalObj.Addition(num1, num2)+1;
+            Assert.AreEqual(0, resultSum, "Testing result for addition of 5 and -5");
+        }
     }
 }
