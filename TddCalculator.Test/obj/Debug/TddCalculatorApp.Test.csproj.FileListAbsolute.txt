@@ -1,0 +1,16 @@
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Test\bin\Debug\TddCalculator.Test.dll
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Test\bin\Debug\TddCalculator.Test.pdb
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Test\bin\Debug\TddCalculator.Library.dll
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Test\bin\Debug\TddCalculator.Library.pdb
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Test\obj\Debug\TddCalculatorApp.Test.csprojAssemblyReference.cache
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Test\obj\Debug\TddCalculatorApp.Test.csproj.CoreCompileInputs.cache
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Test\obj\Debug\TddCalculatorApp.Test.csproj.CopyComplete
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Test\obj\Debug\TddCalculator.Test.dll
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Test\obj\Debug\TddCalculator.Test.pdb

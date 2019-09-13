@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddCalculatorApp", "TddCalculatorApp\TddCalculatorApp.csproj", "{10D289FA-B1BD-4546-87A9-F148C67C004F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddCalculator.Library", "TddCalculator.Library\TddCalculator.Library.csproj", "{B72B0507-D90F-4763-8B37-702C8DAB715B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddCalculatorApp.Library", "TddCalculator.Library\TddCalculatorApp.Library.csproj", "{B72B0507-D90F-4763-8B37-702C8DAB715B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddCalculator.Test", "TddCalculator.Test\TddCalculator.Test.csproj", "{A2649E9A-8F3B-4150-BD47-96BBCDDC2CA8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddCalculatorApp.Test", "TddCalculator.Test\TddCalculatorApp.Test.csproj", "{A2649E9A-8F3B-4150-BD47-96BBCDDC2CA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

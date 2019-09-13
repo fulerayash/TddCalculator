@@ -1,0 +1,6 @@
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Library\bin\Debug\TddCalculator.Library.dll
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Library\bin\Debug\TddCalculator.Library.pdb
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Library\obj\Debug\TddCalculatorApp.Library.csprojAssemblyReference.cache
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Library\obj\Debug\TddCalculatorApp.Library.csproj.CoreCompileInputs.cache
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Library\obj\Debug\TddCalculator.Library.dll
+C:\YashFulera_Training\Web App\TddCalculatorApp\TddCalculator.Library\obj\Debug\TddCalculator.Library.pdb
